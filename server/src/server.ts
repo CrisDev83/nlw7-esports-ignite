@@ -1,7 +1,9 @@
 import express from 'express';
+import { PrismaClient } from '@prisma/client';
 
 
 const app = express();
+const prisma = new PrismaClient();
 
 app.get('/games', (req, res) => {
     return res.json([]);
