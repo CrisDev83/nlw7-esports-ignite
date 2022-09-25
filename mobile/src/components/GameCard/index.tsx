@@ -9,7 +9,7 @@ import { THEME } from '../../theme';
 export interface GameCardProps {
     id: string;
     title: string;
-    _count: {ads: number;};
+    _count: {ad: number;};
     bannerUrl: string;
 }
 
@@ -34,7 +34,7 @@ export function GameCard({data, ...rest}: Props) {
           </Text>
 
           <Text style={styles.ads}>
-            {data._count.ads} anúncios
+            {data._count.ad} anúncios
           </Text>
         </LinearGradient>
         </ImageBackground >
