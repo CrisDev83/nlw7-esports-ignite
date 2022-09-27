@@ -1,10 +1,10 @@
-import { StyleSheet } from 'react-native';
-import { THEME } from '../../theme';
+import { StyleSheet } from "react-native";
+import { THEME } from "../../theme";
 
 export const styles = StyleSheet.create({
   container: {
     flex: 1,
-    alignItems: 'center',
+    alignItems: "center",
   },
   header: {
     width: '100%',
@@ -12,8 +12,7 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
     paddingHorizontal: 32,
     marginTop: 28,
-    justifyContent: 'space-between'
-
+    justifyContent: 'space-between',
   },
   logo: {
     width: 72,
@@ -21,11 +20,11 @@ export const styles = StyleSheet.create({
   },
   right: {
     width: 20,
-    height: 20,
+    height: 20
   },
   cover: {
-    width: 251,
-    height: 100,
+    width: 300,
+    height: 140,
     borderRadius: 8,
     marginTop: 32,
   },
@@ -33,18 +32,18 @@ export const styles = StyleSheet.create({
     width: '100%',
   },
   contentList: {
-  paddingLeft: 32,
-  paddingRight: 64,
-  alignItems: 'flex-start',
+    paddingLeft: 32,
+    paddingRight: 64,
+    alignItems: 'flex-start'
   },
   emptyListText: {
     color: THEME.COLORS.CAPTION_300,
     fontSize: THEME.FONT_SIZE.SM,
     fontFamily: THEME.FONT_FAMILY.REGULAR,
   },
-  emptyLisContent: {
+  emptyListContent: {
     flex: 1,
-    alignItems: 'center',
     justifyContent: 'center',
+    alignItems: 'center',
   }
-});
+})

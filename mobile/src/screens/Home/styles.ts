@@ -1,16 +1,15 @@
-import { StyleSheet } from 'react-native';
+import { StyleSheet } from "react-native";
 
 export const styles = StyleSheet.create({
   container: {
     flex: 1,
     alignItems: 'center',
-
   },
   logo: {
     width: 214,
     height: 120,
-    marginTop: 74,
-    marginBottom: 15,
+    marginTop: 70,
+    marginBottom: 30,
   },
   contentList: {
     paddingLeft: 32,

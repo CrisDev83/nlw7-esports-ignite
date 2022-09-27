@@ -1,4 +1,3 @@
-
 export interface GameParams {
   id: string;
   title: string;

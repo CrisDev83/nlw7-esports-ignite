@@ -1,24 +1,22 @@
-import { StyleSheet } from 'react-native';
-import { THEME } from '../../theme';
+import { StyleSheet } from "react-native";
+import { THEME } from "../../theme";
 
 export const styles = StyleSheet.create({
   container: {
     marginRight: 24,
-
   },
   cover: {
-    width: 170,
-    height: 250,
+    width: 200,
+    height: 300,
     justifyContent: 'flex-end',
     borderRadius: 8,
     overflow: 'hidden',
   },
-
   footer: {
     width: '100%',
-    height: 102,
+    height: 120,
     padding: 16,
-    justifyContent: 'flex-end'
+    justifyContent: 'flex-end',
   },
   name: {
     color: THEME.COLORS.TEXT,
