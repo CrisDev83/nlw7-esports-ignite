@@ -1,6 +1,6 @@
 # projetoEsports
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/CrisDev83/projetoProffy/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/CrisDev83/projetoEsports/blob/master/LICENSE) 
 
 # Sobre o projeto
 
