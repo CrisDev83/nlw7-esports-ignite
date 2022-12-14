@@ -4,23 +4,22 @@
 
 # Sobre o projeto
 
-https://gorgeous-sfogliatella-6ecdaf.netlify.app/
 
-Projeto desenvolvido no treinamento NLW#2 da Rocketseat. É Uma plataforma de estudos online, que conecta alunos e professores. Para informações mais técnicas, acesse o Github através do botão abaixo.
+Projeto desenvolvido no treinamento NLW#7 da Rocketseat. É Uma plataforma de estudos para encontrar duo para jogar online. Ela consome a api do site de jogos. E você consegue fazer um aúncio procurando pessoas para jogar. As pessoas podem conectar com você através do Discord e combinar um Duo. Para informações mais técnicas, acesse o Github através do botão abaixo.
 
-Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router e outros!
+Tudo isso usando os principais conceitos do ReactJS, NodeJS e React-Native. Esse aplicativo possui uma aplicação Web e Mobile consumindo a mesma api, mas com funções diferentes para cada uma delas. Achei muito interessante. 
 
-## Layout Desktop
+## Web
 <div align="center"> 
-    <img src="https://github.com/CrisDev83/assets-projects/blob/master/proffy.png" />
-    <img src="https://github.com/CrisDev83/assets-projects/blob/master/proffylist.png" width="500"/>
-    <img src="https://github.com/CrisDev83/assets-projects/blob/master/proffycadastro.png" width="500"/>
+    <img src="https://github.com/CrisDev83/assets-projects/blob/master/esportsTela1.png" />
+    <img src="https://github.com/CrisDev83/assets-projects/blob/master/esportsTela2.png" />
 </div>
 
-## Layout Responsivo
-![mobile1](https://github.com/CrisDev83/assets-projects/blob/master/proffymobile.png)
-![mobile2](https://github.com/CrisDev83/assets-projects/blob/master/pm2.png)
-![mobile3](https://github.com/CrisDev83/assets-projects/blob/master/pm3.png)
+## Mobile
+![mobile1](https://github.com/CrisDev83/assets-projects/blob/master/esportsMobile1.png)
+![mobile2](https://github.com/CrisDev83/assets-projects/blob/master/esportsMobile2.png)
+![mobile3](https://github.com/CrisDev83/assets-projects/blob/master/esportsMobile3.png)
+![mobile4](https://github.com/CrisDev83/assets-projects/blob/master/esportsMobile4.png)
 
 ## O Que aprendi?
 
@@ -36,6 +35,7 @@ Criar um projeto React com Yarn; Limpar extrutura do projeto; gitignore; package
 - Yarn
 - Git
 - GitHub
+- Expo
 
 ## Front end
 - HTML \ CSS \ JS
