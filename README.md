@@ -41,14 +41,16 @@ Criar um projeto React com Yarn; Limpar extrutura do projeto; gitignore; package
 - NodeJs
 - Typescript
 
+## Banco de dados
+- Sqlite
 
 ## Dependencies
 - prisma
 - express
 - cors
 
-## Implantação em produção
-- Netlify
+## Implantação 
+- Localhost
 
 # Como executar o projeto
 
