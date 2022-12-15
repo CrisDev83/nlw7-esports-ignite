@@ -37,27 +37,23 @@ Criar um projeto React com Yarn; Limpar extrutura do projeto; gitignore; package
 - GitHub
 - Expo
 
-## Front end
-- HTML \ CSS \ JS
-- JSX
-- ReactJS
+## Back end
+- NodeJs
 - Typescript
 
 
 ## Dependencies
-- react
-- react-dom
-- react-scripts
-- typescript
-- react-router-dom
+- prisma
+- express
+- cors
 
 ## Implantação em produção
 - Netlify
 
 # Como executar o projeto
 
-## Front end web
-Pré-requisitos mínimos: node v12.18.3 | nmp v6.14.16 | yarn v1.22.4
+## API
+Pré-requisitos mínimos: node v16.15.0 | nmp v6.14.16
 
 ```zsh
 # clonar repositório
