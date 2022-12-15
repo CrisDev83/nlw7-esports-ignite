@@ -35,6 +35,8 @@ Criar projeto com NodeJs; Iniciar um servidor com express; Criar rotas; Testar r
 - Figma
 - NodeJS
 - Yarn
+- npm
+- npx
 - Git
 - GitHub
 - Expo
