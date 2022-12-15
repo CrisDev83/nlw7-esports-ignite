@@ -24,7 +24,7 @@ Tudo isso usando os principais conceitos do ReactJS, NodeJS e React-Native. Esse
 
 ## O Que aprendi?
 
-Criar projeto com NodeJs; Iniciar um servidor com express; Criar rotas; Testar rotas com Hoppscoth; .
+Criar projeto com NodeJs; Iniciar um servidor com express; Criar rotas; Testar rotas com Hoppscoth; Criar um projeto com ViteJS; .
  
 
 # Tecnologias utilizadas
@@ -56,17 +56,18 @@ Criar projeto com NodeJs; Iniciar um servidor com express; Criar rotas; Testar r
 - [x] Criação de novo anúncio;
 
 
-## Back end
+## Back end - API
 - NodeJs
 - Typescript
+- express
 
 ## Banco de dados
 - Sqlite
 
-## Dependencies
-- prisma
-- express
-- cors
+## Front end - WEB
+- ReactJs
+- ViteJs
+- 
 
 ## Implantação 
 - Localhost
