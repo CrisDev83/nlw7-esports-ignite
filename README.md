@@ -10,13 +10,13 @@ Projeto desenvolvido no treinamento NLW#7 da Rocketseat. É Uma plataforma de es
 
 Tudo isso usando os principais conceitos do ReactJS, NodeJS e React-Native. Esse aplicativo possui uma aplicação Web e Mobile consumindo a mesma api, mas com funções diferentes para cada uma delas. Achei muito interessante. 
 
-## Web
+## Design da aplicação Web
 <div align="center"> 
     <img src="https://github.com/CrisDev83/assets-projects/blob/master/esportsTela1.png" />
     <img src="https://github.com/CrisDev83/assets-projects/blob/master/esportsTela2.png" />
 </div>
 
-## Mobile
+## Design da aplicação Mobile
 ![mobile1](https://github.com/CrisDev83/assets-projects/blob/master/esportsMobile1.png)
 ![mobile2](https://github.com/CrisDev83/assets-projects/blob/master/esportsMobile2.png)
 ![mobile3](https://github.com/CrisDev83/assets-projects/blob/master/esportsMobile3.png)
@@ -39,6 +39,20 @@ Criar projeto com NodeJs; Iniciar um servidor com express; Criar rotas; Testar r
 - GitHub
 - Expo
 - Hoppscotch
+
+
+## ✏️ Funcionalidades
+- [x] Conexão do back-end (server) e do front-end (web) para mostrar os jogos;
+- [x] Conexão de criação de anúncio com a API (back-end);
+- [x] Listagem de games com contagem de anúncios; 
+- [x] Interface de criação de novo anúncio; 
+    - [x] Deixar funcional a parte de "quando costuma jogar?";
+    - [x] Customizar a checkbox;
+    - [x] Cadastrar o anúncio na API.
+- [x] Listagem de anúncios por game;
+- [x] Buscar discord pelo ID do anúncio;
+- [x] Criação de novo anúncio;
+
 
 ## Back end
 - NodeJs
