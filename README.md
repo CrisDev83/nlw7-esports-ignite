@@ -6,7 +6,7 @@
 
 [LINK PARA O FIGMA](https://www.figma.com/file/9ugPBK4GQmJLB0Gf7swXQx/NLW-eSports-(Community)?node-id=6%3A23&t=O7KweYj0UY225aiA-0)
 
-Projeto desenvolvido no treinamento NLW#7 da Rocketseat. É Uma plataforma de estudos para encontrar duo para jogar online. Ela consome a api do site de jogos. E você consegue fazer um aúncio procurando pessoas para jogar. As pessoas podem conectar com você através do Discord e combinar um Duo. Para informações mais técnicas, acesse o Github através do botão abaixo.
+Projeto desenvolvido no treinamento NLW#7 da Rocketseat. É Uma plataforma de estudos para encontrar duo para jogar online. Ela consome a api da TWITCH. E você consegue fazer um aúncio procurando pessoas para jogar. As pessoas podem conectar com você através do Discord e combinar um Duo. Para informações mais técnicas, acesse o Github através do botão abaixo.
 
 Tudo isso usando os principais conceitos do ReactJS, NodeJS e React-Native. Esse aplicativo possui uma aplicação Web e Mobile consumindo a mesma api, mas com funções diferentes para cada uma delas. Achei muito interessante. 
 
